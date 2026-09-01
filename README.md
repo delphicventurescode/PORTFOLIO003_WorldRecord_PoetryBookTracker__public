@@ -62,7 +62,9 @@ For detailed application documentation and instructions for running the applicat
 **Portfolio Project #003**
 
 **Project:** World Record Poetry Book Tracker
+
 **Technology:** Flask + Python + SQLite
+
 **Development approach:** AI-assisted development using Google Antigravity
 
 This project is part of a portfolio demonstrating practical applications of software development and AI-assisted coding.
